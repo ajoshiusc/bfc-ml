@@ -1,4 +1,4 @@
-# Bias Field correction in 3D-MRIs using ConvolutionalAutoencoders
+# Bias Field correction in 3D-MRIs using Convolutional Autoencoders
 
 Author: Shashank Nelamangala Sridhara.
 University of Southern California.  
