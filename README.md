@@ -16,5 +16,5 @@ For  the  neural  network  architecture,  we  used  a  convolutional  autoencode
 The estimated bias field from the autoencoder model is shown along with the ground truth bias field in below figure.  The bias field corrected MRIs, and tissue classification using histogram based and the proposed methods are shown in below figure.  We showed that the proposed method outperforms the histogram-based method in removingbias fields and achieves more accurate tissue classification.
 
 
-![Result-1](/Figures/bias_field_comparison.png)
+![Result-1](/Figures/bias_field_comparison_poster.png)
 ![Result-2](/Figures/tissue_classification.png)
