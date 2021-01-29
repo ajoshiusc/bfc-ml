@@ -17,4 +17,4 @@ The estimated bias field from the autoencoder model is shown along with the grou
 
 
 ![Result-1](/Figures/bias_field_comparison_poster.png)
-![Result-2](/Figures/tissue_classification.png)
+![Result-2](/Figures/corrected-tissue-poster.png)
